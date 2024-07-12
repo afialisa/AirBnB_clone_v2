@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" holds class Amenity"""
+""" A program that holds class Amenity"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv

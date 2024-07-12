@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains the TestPlaceDocs classes
+A program that contains the TestPlaceDocs classes
 """
 
 from datetime import datetime
